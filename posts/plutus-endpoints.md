@@ -2,6 +2,9 @@
 title: 'Plutus Endpoints'
 author: 'RM'
 date: 'August 29, 2022'
+imagepath: 'https://imgs.search.brave.com/U7OzRcfAyl_j-OHi8nuQYQ5zMfArqMBGl74UCJsO4IA/rs:fit:715:479:1/g:ce/aHR0cHM6Ly9kZXNp/Z25zaGFjay5uZXQv/d3AtY29udGVudC91/cGxvYWRzL3BsYWNl/aG9sZGVyLWltYWdl/LnBuZw'
+imagename: 'Placeholder image'
+description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam sit ipsum, nemo neque id'
 ---
 
 # Plutus endpoints
@@ -13,7 +16,10 @@ Off-chain is a parameterized, flexible, programmable transaction construction th
 ## The `Schema`
 
 - The datatype `Schema` is used for modelling the Schema's structure. 
-- The two functions passed to `Schema` are the **endpoints**, e.g. `grab` and `give`. 
+- The two functions passed to `Schema` are the **endpoints**, e.g. `grab` and `give`.
+
+![Placeholder image](https://imgs.search.brave.com/U7OzRcfAyl_j-OHi8nuQYQ5zMfArqMBGl74UCJsO4IA/rs:fit:715:479:1/g:ce/aHR0cHM6Ly9kZXNp/Z25zaGFjay5uZXQv/d3AtY29udGVudC91/cGxvYWRzL3BsYWNl/aG9sZGVyLWltYWdl/LnBuZw)
+----- 
 
 ### `give`
 
